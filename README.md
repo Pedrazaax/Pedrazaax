@@ -1,0 +1,2 @@
+- 👋 Hola soy Carlos Pedraza Antona, actualmente soy estudiante de Ingeniería Informática.
+- 👀 En este github podrás ver mis proyectos.
